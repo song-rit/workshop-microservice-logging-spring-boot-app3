@@ -1,0 +1,1 @@
+# workshop-microservice-logging-spring-boot-app3
